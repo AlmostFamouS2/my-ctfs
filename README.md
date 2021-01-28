@@ -1,4 +1,5 @@
 # my first ctf repository
  :)
-HOHOHO
+
+HOHOHO\n
 EVEN IF
