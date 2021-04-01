@@ -46,6 +46,7 @@ int main(int argc, char* argv[])
         return 1;
     }
 
+close(sock);
 printf("%s\n\n\n",buf);
 return 0;
 }
